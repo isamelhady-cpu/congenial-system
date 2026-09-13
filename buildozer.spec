@@ -9,3 +9,5 @@ requirements = python3,kivy,sqlite3
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
+
+# trigger build
